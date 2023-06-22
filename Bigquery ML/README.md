@@ -13,8 +13,6 @@ The steps performed in this tutorial include:
 
 Learn more about [BigQuery ML](https://cloud.google.com/vertex-ai/docs/beginner/bqml).
 
-[Click here to access the tutorial](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/bigquery_ml/bqml-online-prediction.ipynb)
-
 ## Get Started with BigQuery ML Training
 
 Learn how to use BigQuery ML for training with Vertex AI. This tutorial guides you through the process of creating a local BigQuery table in your project, training a BigQuery ML model, evaluating the model, exporting it as a cloud model, uploading the exported model as a Vertex AI Model resource, hyperparameter tuning with Vertex AI Vizier, and automatically registering the BigQuery ML model to Vertex AI Model Registry.
@@ -31,4 +29,3 @@ The steps performed in this tutorial include:
 
 Learn more about [BigQuery ML](https://cloud.google.com/vertex-ai/docs/beginner/bqml).
 
-[Click here to access the tutorial](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/bigquery_ml/get_started_with_bqml_training.ipynb)
