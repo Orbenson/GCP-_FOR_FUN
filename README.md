@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-Welcome to the Google Cloud Vertex AI  repository GCP for fun.
+Welcome to the Google Cloud repository GCP for fun.
 
 ## Overview
 
